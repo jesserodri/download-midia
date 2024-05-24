@@ -18,9 +18,17 @@
   - **caso seja em lote, informe as URLs no arquivo chamado links.txt e o script se encarrega de baixar tudo**
 - **O script irá baixar e disponibilizar o arquivo na mesma pasta que o arquivo(script) estiver**
 
+
 # :hammer: Funcionalidades do projeto
 
 - `Download de audio individual`: informe a URL na execução do script
 - `Download de audio em lote`: informe as URLs no arquivo links.txt
 - `Download de video individual`: informe a URL na execução do script
 - `Download de video em lote`: informe as URLs no arquivo links.txt
+
+#
+![Static Badge](https://img.shields.io/badge/Github-JesseRodri-blue?link=https%3A%2F%2Fgithub.com%2Fjesserodri)
+![Static Badge](https://img.shields.io/badge/Linkedin-Jess%C3%A9%20Rodrigues-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjess%25C3%25A9-rodrigues-da-silva%2F)
+
+
+
